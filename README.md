@@ -39,10 +39,8 @@ Este portal permite la gestión de productos a través de un sistema de login. S
 - **Pantalla "Mis Favoritos"** para agregar y quitar productos de favoritos.
 
 ## Consideraciones
-- La base de datos es distinta a la utilizada en el curso C# Nivel 2. Aunque se suman tablas, la estructura cambia y debe generarse nuevamente.
 - Se debe implementar arquitectura en capas.
 - Se deben manejar excepciones y validaciones adecuadas.
-- Si se realizó el TP del curso Nivel 2, se recomienda reutilizar las capas de dominio y negocio existentes.
 
 ## Tecnologías Utilizadas
 - C# (.NET Framework 4.8)
