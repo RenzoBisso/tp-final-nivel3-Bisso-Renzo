@@ -1,2 +1,55 @@
-# GestionDeArticulosWeb
+# Portal de Administración de Productos
+
+## Descripción
+Este portal permite la gestión de productos a través de un sistema de login. Solo los usuarios con permisos de administrador podrán acceder al área de administración para realizar modificaciones en los productos publicados. Además, se cuenta con funcionalidades adicionales opcionales para mejorar la experiencia del usuario final.
+
+## Funcionalidades Principales
+- **Home** con catálogo de productos y filtros.
+- **Pantalla de detalle de producto.**
+- **Pantalla de Login** con validación de usuario y contraseña.
+- **Gestión de productos** (solo administradores):
+  - Listado de artículos (formato grilla).
+  - Búsqueda de artículos por distintos criterios.
+  - Agregar artículos.
+  - Modificar artículos.
+  - Eliminar artículos.
+- **Base de datos persistente** con los siguientes campos por artículo:
+  - Código de artículo.
+  - Nombre.
+  - Descripción.
+  - Marca (seleccionable de una lista desplegable).
+  - Categoría (seleccionable de una lista desplegable).
+  - Imagen.
+  - Precio.
+
+## Etapas de Desarrollo
+### Etapa 1: Construcción del Modelo y Navegación
+- Diseño de clases para representar los artículos y usuarios.
+- Creación de las pantallas necesarias con su respectiva navegación.
+
+### Etapa 2: Interacción con la Base de Datos
+- Implementación de la conexión con la base de datos.
+- Manejo de validaciones y excepciones.
+- Desarrollo de la funcionalidad de gestión de productos.
+- Implementación del sistema de Login con validación de credenciales.
+
+### Etapa 3: Funcionalidades Opcionales
+- **Registro de cliente** con opción de alta de usuario.
+- **Pantalla "Mi Perfil"** para la gestión de datos personales.
+- **Pantalla "Mis Favoritos"** para agregar y quitar productos de favoritos.
+
+## Consideraciones
+- La base de datos es distinta a la utilizada en el curso C# Nivel 2. Aunque se suman tablas, la estructura cambia y debe generarse nuevamente.
+- Se debe implementar arquitectura en capas.
+- Se deben manejar excepciones y validaciones adecuadas.
+- Si se realizó el TP del curso Nivel 2, se recomienda reutilizar las capas de dominio y negocio existentes.
+
+## Tecnologías Utilizadas
+- C# (.NET Framework 4.8)
+- SQL Server
+- WinForms / ASP.NET (según la implementación final)
+- Arquitectura en capas
+
+
+
  
