@@ -49,8 +49,8 @@ Este portal permite la gestión de productos a través de un sistema de login. S
 - Arquitectura en capas
   
 ## Usuario Admin
--Email: admin@admin.com
--Password: admin
+- Email: admin@admin.com
+- Password: admin
 
 
  
