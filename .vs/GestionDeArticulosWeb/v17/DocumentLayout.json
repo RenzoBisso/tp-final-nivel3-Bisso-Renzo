@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\agregarcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\agregarcategoria.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\onedrive\\github\\gestiondearticulosweb\\gestiondearticulosweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\cargararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\cargararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\cargararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\cargararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\onedrive\\github\\gestiondearticulosweb\\gestiondearticulosweb\\cargarmarca.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\cargarmarca.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\cargarmarca.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\cargarmarca.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\agregarcategoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\agregarcategoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|c:\\users\\renzo\\onedrive\\github\\gestiondearticulosweb\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|c:\\users\\renzo\\onedrive\\github\\gestiondearticulosweb\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\favoritos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\favoritos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\favoritos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\favoritos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\negocio\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|solutionrelative:negocio\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\paneladmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\paneladmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\Negocio\\ArticuloNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\Negocio\\ArticuloNegocio.cs",
+              "RelativeToolTip": "Negocio\\ArticuloNegocio.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:18:58.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CargarMarca.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarMarca.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\CargarMarca.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarMarca.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\CargarMarca.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAxwFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:31:57.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarCategoria.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\AgregarCategoria.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\AgregarCategoria.aspx",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\AgregarCategoria.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\AgregarCategoria.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T16:29:46.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgregarCategoria.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\AgregarCategoria.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\AgregarCategoria.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\AgregarCategoria.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\AgregarCategoria.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:29:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CargarArticulo.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T16:31:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Home.aspx",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T18:12:47.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CargarArticulo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAvwCkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:31:52.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Registro.aspx",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T18:19:01.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Registro.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:19:04.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CargarMarca.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarMarca.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\CargarMarca.aspx",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarMarca.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\CargarMarca.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T20:23:56.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:13:58.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PanelAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\PanelAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\PanelAdmin.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\PanelAdmin.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\PanelAdmin.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:33:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Site.Master",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Site.Master",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Site.Master",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T18:15:37.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Site.Master.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Site.Master.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Site.Master.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAWwCYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:16:15.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Favoritos.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Favoritos.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Favoritos.aspx",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Favoritos.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Favoritos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-23T18:19:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Favoritos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Favoritos.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Favoritos.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Favoritos.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Favoritos.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:19:51.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:58:49.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seguridad.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\Negocio\\Seguridad.cs",
+              "RelativeDocumentMoniker": "Negocio\\Seguridad.cs",
+              "ToolTip": "C:\\Users\\renzo\\OneDrive\\GitHub\\GestionDeArticulosWeb\\Negocio\\Seguridad.cs",
+              "RelativeToolTip": "Negocio\\Seguridad.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:30:34.604Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
