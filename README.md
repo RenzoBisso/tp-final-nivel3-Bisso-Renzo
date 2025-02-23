@@ -47,9 +47,12 @@ Este portal permite la gestión de productos a través de un sistema de login. S
 ## Tecnologías Utilizadas
 - C# (.NET Framework 4.8)
 - SQL Server
-- WinForms / ASP.NET (según la implementación final)
+- ASP.NET 
 - Arquitectura en capas
-
+  
+## Usuario Admin
+-Email: admin@admin.com
+-Password: admin
 
 
  
