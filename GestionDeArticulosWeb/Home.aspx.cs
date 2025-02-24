@@ -17,26 +17,25 @@ namespace GestionDeArticulosWeb
         protected void Page_Load(object sender, EventArgs e)
         {
 
+
             if (!IsPostBack)
             {
-
-
                 List<Articulo> listaArticulo = new List<Articulo>();
                 ArticuloNegocio articuloNegocio = new ArticuloNegocio();
                 listaArticulo = articuloNegocio.listarArticulos();
 
-
-
                 repArticulos.DataSource = listaArticulo;
                 repArticulos.DataBind();
-
             }
-            filtroAvanzado_SelectIndexCheckedChanged(sender, e);
-            cargarDdl();
+
+
         }
+
 
         protected void cargarDdl()
         {
+
+
             MarcaNegocio marca = new MarcaNegocio();
             CategoriaNegocio categoria = new CategoriaNegocio();
 
@@ -60,6 +59,9 @@ namespace GestionDeArticulosWeb
                     ddlCriterio.Items.Add(new ListItem(item.Descripcion));
                 }
             }
+
+
+
         }
 
         protected void btnFiltroRapido_Click(object sender, EventArgs e)
@@ -74,43 +76,6 @@ namespace GestionDeArticulosWeb
             repArticulos.DataBind();
 
         }
-
-        protected void filtroAvanzado_SelectIndexCheckedChanged(object sender, EventArgs e)
-        {
-            try
-            {
-                if (cbxFiltroAvanzado.Checked)
-                {
-                    btnFiltroRapido.Visible = false;
-                    txtFiltroNombre.Visible = false;
-                    ddlfiltroAvanzado.Visible = true;
-                    ddlCriterio.Visible = true;
-                    btnFiltroAvanzado.Visible = true;
-                    cargarDdl();
-
-                }
-                else
-                {
-                    btnFiltroAvanzado.Visible = false;
-                    btnFiltroRapido.Visible = true;
-                    txtFiltroNombre.Visible = true;
-                    ddlfiltroAvanzado.Visible = false;
-                    ddlCriterio.Visible = false;
-
-                }
-
-
-            }
-            catch (Exception ex)
-            {
-                Session.Add("error", ex.Message);
-                Response.Redirect("Error.aspx", false);
-            }
-
-
-
-        }
-
         protected void btnFiltroAvanzado_Click(object sender, EventArgs e)
         {
             try
@@ -125,7 +90,7 @@ namespace GestionDeArticulosWeb
                 {
                     List<Articulo> listaArticulos = new List<Articulo>();
 
-                    int criterio = marcaNegocio.DevolverId(ddlCriterio.Items[ddlCriterio.SelectedIndex].Text);
+                    int criterio = marcaNegocio.DevolverId(ddlCriterio.SelectedItem.Text);
                     listaArticulos = articuloNegocio.listarArticulos(criterio);
                     repArticulos.DataSource = listaArticulos;
                     repArticulos.DataBind();
@@ -134,7 +99,7 @@ namespace GestionDeArticulosWeb
                 {
                     List<Articulo> listaArticulos = new List<Articulo>();
 
-                    int seccion = categoriaNegocio.DevolverId(ddlCriterio.Items[ddlCriterio.SelectedIndex].Text);
+                    int seccion = categoriaNegocio.DevolverId(ddlCriterio.SelectedItem.Text);
                     listaArticulos = articuloNegocio.listarArticulosSeccion(seccion);
                     repArticulos.DataSource = listaArticulos;
                     repArticulos.DataBind();
@@ -144,10 +109,6 @@ namespace GestionDeArticulosWeb
             {
                 Session.Add("error", ex.Message);
                 Response.Redirect("Error.aspx", false);
-            }
-            finally
-            {
-
             }
 
 
@@ -209,6 +170,13 @@ namespace GestionDeArticulosWeb
                 }
 
             }
+        }
+
+
+
+        protected void ddlfiltroAvanzado_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            cargarDdl();
         }
     }
 }

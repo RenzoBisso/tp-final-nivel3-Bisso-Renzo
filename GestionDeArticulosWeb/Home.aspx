@@ -21,15 +21,19 @@
                 <asp:Button ID="btnFiltroRapido" CssClass="btn btn-primary" OnClick="btnFiltroRapido_Click" runat="server" Text="Filtrar" />
                 <br />
                 <br />
-                <asp:CheckBox ID="cbxFiltroAvanzado" CssClass="form-check-label" OnSelectIndexCheckedChanged="filtroAvanzado_SelectIndexCheckedChanged" AutoPostBack="true" Text="Filtro Avanzado" runat="server" />
-                <asp:DropDownList ID="ddlfiltroAvanzado" CssClass="btn btn-outline-primary dropdown-toggle" AutoPostBack="true" runat="server">
+                <asp:CheckBox ID="cbxFiltroAvanzado" CssClass="form-check-label" AutoPostBack="true" Text="Filtro Avanzado" runat="server" />
+                <% if (cbxFiltroAvanzado.Checked)
+                    {%>
+
+
+                <asp:DropDownList ID="ddlfiltroAvanzado" CssClass="btn btn-outline-primary dropdown-toggle" OnSelectedIndexChanged="ddlfiltroAvanzado_SelectedIndexChanged" AutoPostBack="true" runat="server">
                     <asp:ListItem Text="Todos"></asp:ListItem>
                     <asp:ListItem Text="Marca"></asp:ListItem>
                     <asp:ListItem Text="Categoria"></asp:ListItem>
                 </asp:DropDownList>
                 <br />
                 <br />
-                <asp:DropDownList ID="ddlCriterio" CssClass="btn btn-outline-primary dropdown-toggle" runat="server">
+                <asp:DropDownList ID="ddlCriterio" CssClass="btn btn-outline-primary dropdown-toggle" AutoPostBack="true" runat="server">
                     <asp:ListItem Text="Todos"></asp:ListItem>
                 </asp:DropDownList>
                 <br />
@@ -38,6 +42,7 @@
                 <br />
                 <br />
                 <asp:Button ID="btnFiltroAvanzado" OnClick="btnFiltroAvanzado_Click" CssClass="btn btn-primary" runat="server" Text="Filtrar" />
+                <%}%>
             </div>
             <div class="col">
                 <asp:ScriptManager ID="scriptManager" runat="server"></asp:ScriptManager>
