@@ -9,3 +9,14 @@ C:\Users\renzo\OneDrive\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\Modelos.p
 C:\Users\renzo\OneDrive\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\renzo\OneDrive\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.dll
 C:\Users\renzo\OneDrive\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\Negocio.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\Negocio.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\BaseDeDatos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\Modelos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\BaseDeDatos.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Debug\Modelos.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Debug\Negocio.pdb

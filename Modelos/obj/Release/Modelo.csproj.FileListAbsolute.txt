@@ -1,0 +1,6 @@
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Modelos\bin\Release\Modelos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Modelos\bin\Release\Modelos.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Modelos\obj\Release\Modelo.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Modelos\obj\Release\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Modelos\obj\Release\Modelos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Modelos\obj\Release\Modelos.pdb

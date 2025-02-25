@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using BaseDeDatos;
 using Modelo;
 using Negocio;
 
@@ -87,6 +88,9 @@ namespace GestionDeArticulosWeb
                 Response.Redirect("Error.aspx", false);
             }
         }
+
+
+
         protected void btnRegistrarse_Click(object sender, EventArgs e)
         {
             try
@@ -98,16 +102,36 @@ namespace GestionDeArticulosWeb
                 newUser.Email = txtEmail.Text;
                 newUser.Pass = txtPass.Text;
                 newUser.Apellido = txtApellido.Text;
-                string ruta = Server.MapPath("./Imagenes/Perfil/");
 
-                string rutaImagen = ruta + "perfil-" + txtEmail.Text + ".jpg";
-                txtUrlImagenPerfil.PostedFile.SaveAs(rutaImagen);
-                newUser.UrlImagenPerfil = "perfil-" + txtEmail.Text + ".jpg";
+                if (!string.IsNullOrEmpty(txtUrlImagenPerfil.Value))
+                {
+                    string ruta = Server.MapPath("./Imagenes/Perfil/");
+
+                    string rutaImagen = ruta + "perfil-" + txtEmail.Text + ".jpg";
+                    txtUrlImagenPerfil.PostedFile.SaveAs(rutaImagen);
+                    newUser.UrlImagenPerfil = "perfil-" + txtEmail.Text + ".jpg";
+                }
+                else
+                {
+                    newUser.UrlImagenPerfil = DBNull.Value.ToString();
+                }
+
 
                 if (!(string.IsNullOrEmpty(newUser.Nombre) || string.IsNullOrEmpty(newUser.Apellido) || string.IsNullOrEmpty(newUser.Email) || string.IsNullOrEmpty(newUser.Pass)))
                 {
-                    userNegocio.Registro(newUser);
-                    Response.Redirect("Login.aspx", false);
+
+                    if (userNegocio.Registro(newUser))
+                    {
+                        Session.Add("error", "Email en uso");
+                        Response.Redirect("Error.aspx", false);
+                    }
+                    else
+                    {
+                        Response.Redirect("Login.aspx", false);
+
+                    }
+
+
 
                 }
                 else
@@ -150,25 +174,41 @@ namespace GestionDeArticulosWeb
             newUser.Pass = txtPass.Text;
             newUser.Id = int.Parse(Request.QueryString["Id"]);
             newUser.Admin = cbxAdmin.Checked;
-            string ruta = Server.MapPath("./Imagenes/Perfil/");
-
-            string rutaImagen = ruta + "perfil-" + txtEmail.Text + ".jpg";
-            txtUrlImagenPerfil.PostedFile.SaveAs(rutaImagen);
-            newUser.UrlImagenPerfil = "perfil-" + txtEmail.Text + ".jpg";
-
-            userNegocio.ActualizarUser(newUser);
-
-            User user = (User)Session["user"] as User;
-            if (user.Admin)
+            if (!string.IsNullOrEmpty(txtUrlImagenPerfil.Value))
             {
-                Response.Redirect("PanelAdmin.aspx", false);
+                string ruta = Server.MapPath("./Imagenes/Perfil/");
 
+                string rutaImagen = ruta + "perfil-" + txtEmail.Text + ".jpg";
+                txtUrlImagenPerfil.PostedFile.SaveAs(rutaImagen);
+                newUser.UrlImagenPerfil = "perfil-" + txtEmail.Text + ".jpg";
             }
             else
             {
-                Response.Redirect("Default.aspx", false);
-
+                newUser.UrlImagenPerfil = DBNull.Value.ToString();
             }
+
+
+            if (userNegocio.ActualizarUser(newUser))
+            {
+                Session.Add("error", "Email en uso");
+                Response.Redirect("Error.aspx", false);
+            }
+            else
+            {
+                User user = (User)Session["user"] as User;
+                if (user.Admin)
+                {
+                    Response.Redirect("PanelAdmin.aspx", false);
+
+                }
+                else
+                {
+                    Response.Redirect("Default.aspx", false);
+
+                }
+            }
+
+
         }
 
         protected void Eliminar_Click(object sender, EventArgs e)

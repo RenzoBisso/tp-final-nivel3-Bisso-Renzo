@@ -10,7 +10,6 @@ namespace Negocio
 {
     public class FavoritoNegocio
     {
-        Conexion conexion = new Conexion();
 
 
 
@@ -19,6 +18,7 @@ namespace Negocio
         {
             try
             {
+                Conexion conexion = new Conexion();
 
                 conexion.setParametro("@idUser", idUser);
                 conexion.setParametro("@idArticulo", idArticulo);
@@ -36,6 +36,8 @@ namespace Negocio
         {
             try
             {
+                Conexion conexion = new Conexion();
+
                 conexion.setParametro("@idUser", idUser);
                 conexion.setParametro("@idArticulo", idArticulo);
                 conexion.setQuery("Select * from FAVORITOS where IdUser=@idUser and idArticulo=@idArticulo");
@@ -57,6 +59,8 @@ namespace Negocio
         {
             try
             {
+                Conexion conexion = new Conexion();
+
                 conexion.setParametro("@idUser", idUser);
                 conexion.setParametro("@idArticulo", idArticulo);
                 conexion.setQuery("delete from FAVORITOS where IdUser=@idUser and idArticulo=@idArticulo");
@@ -72,6 +76,8 @@ namespace Negocio
 
             try
             {
+                Conexion conexion = new Conexion();
+
                 conexion.setParametro("@idUser", idUser);
                 conexion.setQuery("Select Id, IdUser,IdArticulo from FAVORITOS where IdUser=@idUser");
                 conexion.ejecutarLectura();

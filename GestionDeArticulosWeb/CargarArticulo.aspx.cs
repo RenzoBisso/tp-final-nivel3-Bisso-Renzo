@@ -92,10 +92,21 @@ namespace GestionDeArticulosWeb
                 articuloNuevo.Precio = decimal.Parse(txtPrecio.Text);
                 articuloNuevo.Codigo = txtCodigo.Text;
 
-                string ruta = Server.MapPath("./Imagenes/Articulo/");
-                string rutaImagen = ruta + "Articulo-" + txtNombre.Text + ".jpg";
-                urlImagenArticulo.PostedFile.SaveAs(rutaImagen);
-                articuloNuevo.ImagenUrl = "Articulo-" + txtNombre.Text + ".jpg";
+                if (!string.IsNullOrEmpty(urlImagenArticulo.Value))
+                {
+
+
+                    string ruta = Server.MapPath("./Imagenes/Articulo/");
+                    string rutaImagen = ruta + "Articulo-" + txtNombre.Text + ".jpg";
+                    urlImagenArticulo.PostedFile.SaveAs(rutaImagen);
+                    articuloNuevo.ImagenUrl = "Articulo-" + txtNombre.Text + ".jpg";
+                }
+                else
+                {
+                    articuloNuevo.ImagenUrl = DBNull.Value.ToString();
+                }
+
+
 
                 ArticuloNegocio articuloNegocio = new ArticuloNegocio();
 

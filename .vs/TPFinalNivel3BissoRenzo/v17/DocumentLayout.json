@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\gestiondearticulosweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\gestiondearticulosweb\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\negocio\\usernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|solutionrelative:negocio\\usernegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\gestiondearticulosweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\gestiondearticulosweb\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\negocio\\favoritonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|solutionrelative:negocio\\favoritonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\gestiondearticulosweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\cargararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\cargararticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\gestiondearticulosweb\\cargararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\cargararticulo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|c:\\users\\renzo\\documents\\github\\gestiondearticulosweb\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB0551F-CF92-4A31-A802-F480C76D16F6}|Negocio\\Negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\gestiondearticulosweb\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2821BB60-FC10-4481-BA3D-6798AEFC9CB3}|GestionDeArticulosWeb\\GestionDeArticulosWeb.csproj|solutionrelative:gestiondearticulosweb\\detallearticulo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Web.config",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Web.config",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Web.config",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-25T18:10:28.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\Negocio\\UserNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\UserNegocio.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\Negocio\\UserNegocio.cs",
+              "RelativeToolTip": "Negocio\\UserNegocio.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:44:46.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Login.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Login.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:44:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Login.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Login.aspx",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Login.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T17:44:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoritoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\Negocio\\FavoritoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\FavoritoNegocio.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\Negocio\\FavoritoNegocio.cs",
+              "RelativeToolTip": "Negocio\\FavoritoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:43:20.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Home.aspx.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAowJgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:41:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Home.aspx",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Home.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T17:41:14.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\Negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\Negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "Negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAADwv0IAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:38:16.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CargarArticulo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\CargarArticulo.aspx.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAswGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:48:00.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CargarArticulo.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\CargarArticulo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T05:47:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetalleArticulo.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\DetalleArticulo.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\DetalleArticulo.aspx",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\DetalleArticulo.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\DetalleArticulo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T05:47:52.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx.cs",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Registro.aspx.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAgwMYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:46:56.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx",
+              "RelativeDocumentMoniker": "GestionDeArticulosWeb\\Registro.aspx",
+              "ToolTip": "C:\\Users\\renzo\\Documents\\GitHub\\GestionDeArticulosWeb\\GestionDeArticulosWeb\\Registro.aspx",
+              "RelativeToolTip": "GestionDeArticulosWeb\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T04:46:52.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

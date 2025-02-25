@@ -6,13 +6,13 @@ using System.Text;
 using System.Threading.Tasks;
 using BaseDeDatos;
 using Modelo;
+using static System.Collections.Specialized.BitVector32;
 
 namespace Negocio
 {
     public class UserNegocio
     {
 
-        Conexion conexion = new Conexion();
 
 
 
@@ -20,9 +20,11 @@ namespace Negocio
         public User Logear(string email, string pass)
         {
             User user = new User();
-
+            Conexion conexion = new Conexion();
             try
             {
+
+
                 conexion.setParametro("@email", email);
                 conexion.setParametro("@pass", pass);
 
@@ -74,7 +76,7 @@ namespace Negocio
 
         public void Eliminar(string Id)
         {
-
+            Conexion conexion = new Conexion();
             try
             {
                 conexion.setParametro("@Id", Id);
@@ -95,30 +97,42 @@ namespace Negocio
 
         }
 
-        public void ActualizarUser(User user)
+        public bool ActualizarUser(User user)
         {
+            Conexion conexion = new Conexion();
             try
             {
-                conexion.setParametro("@Id", user.Id);
-                conexion.setParametro("@nombre", user.Nombre);
-                conexion.setParametro("@apellido", user.Apellido);
-                conexion.setParametro("@email", user.Email);
-                conexion.setParametro("@urlImagenPerfil", user.UrlImagenPerfil);
-                conexion.setParametro("@pass", user.Pass);
 
-
-                if (user.Admin)
+                if (existeEmail(user.Email))
                 {
-                    conexion.setParametro("@admin", 1);
-
+                    return true;
                 }
                 else
                 {
-                    conexion.setParametro("@admin", 0);
+                    conexion.setParametro("@Id", user.Id);
+                    conexion.setParametro("@nombre", user.Nombre);
+                    conexion.setParametro("@apellido", user.Apellido);
+                    conexion.setParametro("@email", user.Email);
+                    conexion.setParametro("@urlImagenPerfil", user.UrlImagenPerfil);
+                    conexion.setParametro("@pass", user.Pass);
+
+
+                    if (user.Admin)
+                    {
+                        conexion.setParametro("@admin", 1);
+
+                    }
+                    else
+                    {
+                        conexion.setParametro("@admin", 0);
+                    }
+
+                    conexion.setQuery("UPDATE USERS SET email = @email, nombre = @nombre,pass=@pass ,apellido = @apellido, urlImagenPerfil = @UrlImagenPerfil, admin = @admin WHERE Id = @Id");
+                    conexion.ejecutarAccion();
+                    return false;
                 }
 
-                conexion.setQuery("UPDATE USERS SET email = @email, nombre = @nombre,pass=@pass ,apellido = @apellido, urlImagenPerfil = @UrlImagenPerfil, admin = @admin WHERE Id = @Id");
-                conexion.ejecutarAccion();
+
 
             }
             catch (Exception ex)
@@ -129,21 +143,32 @@ namespace Negocio
             {
                 conexion.cerrarConexion();
             }
+            return false;
         }
 
-        public void Registro(User user)
+        public bool Registro(User user)
         {
+            Conexion conexion = new Conexion();
             try
             {
-                conexion.setParametro("@nombre", user.Nombre);
-                conexion.setParametro("@apellido", user.Apellido);
-                conexion.setParametro("@email", user.Email);
-                conexion.setParametro("@pass", user.Pass);
-                conexion.setParametro("@urlImagenPerfil", user.UrlImagenPerfil);
-                conexion.setParametro("@admin", 0);
+                if (existeEmail(user.Email))
+                {
+                    return true;
+                }
+                else
+                {
+                    conexion.setParametro("@nombre", user.Nombre);
+                    conexion.setParametro("@apellido", user.Apellido);
+                    conexion.setParametro("@email", user.Email);
+                    conexion.setParametro("@pass", user.Pass);
+                    conexion.setParametro("@urlImagenPerfil", user.UrlImagenPerfil);
+                    conexion.setParametro("@admin", 0);
 
-                conexion.setQuery("insert into USERS (email,pass,nombre,apellido,urlImagenPerfil,admin) values (@email,@pass,@nombre,@apellido,@UrlImagenPerfil,@admin)");
-                conexion.ejecutarAccion();
+                    conexion.setQuery("insert into USERS (email,pass,nombre,apellido,urlImagenPerfil,admin) values (@email,@pass,@nombre,@apellido,@UrlImagenPerfil,@admin)");
+                    conexion.ejecutarAccion();
+                    return false;
+                }
+
 
             }
             catch (Exception ex)
@@ -154,11 +179,13 @@ namespace Negocio
             {
                 conexion.cerrarConexion();
             }
+            return false;
+
         }
 
         public User BuscarPorId(string Id)
         {
-
+            Conexion conexion = new Conexion();
             try
             {
 
@@ -190,10 +217,35 @@ namespace Negocio
             return null;
         }
 
+        protected bool existeEmail(string email)
+        {
+            Conexion conexion = new Conexion();
+            try
+            {
+                conexion.setParametro("@Email", email);
+                conexion.setQuery("select * from USERS where email=@Email");
+                conexion.ejecutarLectura();
+                if (conexion.Lector.Read())
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
 
+
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            return false;
+        }
         public List<User> ListarUsuarios()
         {
             List<User> listaUsuarios = new List<User>();
+            Conexion conexion = new Conexion();
             try
             {
                 conexion.setQuery("select Id,email, pass, nombre, apellido, urlImagenPerfil, admin from USERS");

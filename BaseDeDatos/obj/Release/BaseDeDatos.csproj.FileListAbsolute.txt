@@ -1,0 +1,6 @@
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\BaseDeDatos\bin\Release\BaseDeDatos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\BaseDeDatos\bin\Release\BaseDeDatos.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\BaseDeDatos\obj\Release\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\BaseDeDatos\obj\Release\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\BaseDeDatos\obj\Release\BaseDeDatos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\BaseDeDatos\obj\Release\BaseDeDatos.pdb

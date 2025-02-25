@@ -1,0 +1,11 @@
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Release\Negocio.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Release\Negocio.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Release\BaseDeDatos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Release\Modelos.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Release\BaseDeDatos.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\bin\Release\Modelos.pdb
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Release\Negocio.csproj.AssemblyReference.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Release\Negocio.csproj.Up2Date
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Release\Negocio.dll
+C:\Users\renzo\Documents\GitHub\GestionDeArticulosWeb\Negocio\obj\Release\Negocio.pdb
