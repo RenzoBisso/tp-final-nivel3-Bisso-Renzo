@@ -7,7 +7,7 @@ Este portal permite la gestión de productos a través de un sistema de login. S
 http://www.catalogowebnivel3.somee.com/Default.aspx
 
 ## ⚠️ Consideraciones
-No utilicen para registrarse claves o emails que los puedan compremeter.
+No utilicen para registrarse claves o emails que los puedan comprometer.
 
 ## Funcionalidades Principales
 - **Home** con catálogo de productos y filtros.
