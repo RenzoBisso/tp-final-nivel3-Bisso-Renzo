@@ -4,7 +4,7 @@
 Este portal permite la gestión de productos a través de un sistema de login. Solo los usuarios con permisos de administrador podrán acceder al área de administración para realizar modificaciones en los productos publicados. Además, se cuenta con funcionalidades adicionales opcionales para mejorar la experiencia del usuario final.
 
 ## Link 
-http://www.catalogowebnivel3.somee.com/Default.aspx
+http://catalogowebnivel3.somee.com/
 
 ## ⚠️ Consideraciones
 No utilicen para registrarse claves o emails que los puedan comprometer.
